@@ -32,3 +32,7 @@ function appendKitten(name){
   kittens.splice(3, 0, "Broom"); 
   return kittens; 
 }
+
+var kittens = ["Milo", "Otis", "Garfield"]
+
+function 

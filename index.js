@@ -29,5 +29,5 @@ function destructivelyRemoveFirstKitten(){
 var kittens = ["Milo", "Otis", "Garfield"]
 
 function appendKitten(name){
-  kittens = kittens.slice(1, 0, "x")
+  kittens = kittens.slice(3, "Broom")
 }

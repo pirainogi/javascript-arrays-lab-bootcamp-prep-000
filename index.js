@@ -35,4 +35,7 @@ function appendKitten(name){
 
 var kittens = ["Milo", "Otis", "Garfield"]
 
-function 
+function prependKitten(name){
+  kittens.splice(0, 0, "Broom")
+  return kittens;
+}
